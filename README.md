@@ -1,2 +1,2 @@
 # Reservation-System
-Created a Hotel Reservation System using Java
+Created a Reservation System for a hotel using Java using OOPs concepts such as Abstractiona, Inheritance, Encapsulation.
